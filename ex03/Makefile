@@ -6,12 +6,12 @@
 #    By: asolano- <asolano-@student.42malaga.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/10/02 13:24:24 by asolano-          #+#    #+#              #
-#    Updated: 2023/10/10 11:45:21 by asolano-         ###   ########.fr        #
+#    Updated: 2023/10/10 12:33:57 by asolano-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 # Executable name
-NAME = fixed
+NAME = bsp
 
 # Compiler
 CPP = c++
